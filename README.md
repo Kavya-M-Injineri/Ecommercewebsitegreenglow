@@ -2,7 +2,7 @@
   # E-commerce Website GreenGlow
 
 This is my first project.
-It was designed using Figma. Initially, I thought of designing a web page that consisted of plants, but later I changed it into a fully eco-themed platform. I then started building a front-end website, which is basically a nursery-themed platform.
+It was designed using Figma. Initially, I thought of designing a web page that consisted of plants, but later I changed it into a fully eco-themed platform. I then started building a front-end website, which is basically a nursery-themed platform. 
 
 I hope you like it.
   
